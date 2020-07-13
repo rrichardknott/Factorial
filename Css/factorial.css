@@ -27,7 +27,7 @@ button, #number, #factorialNumber {
     background-color: #FFF;
 }
 
-.btnSubmitClearAlert {
+#errorAlertButton {
     font-size: 18px;
     text-transform: uppercase;
 }
